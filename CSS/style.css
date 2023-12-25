@@ -447,19 +447,19 @@
   }
 .slider-list{
     float: left;
-    width: 40%;
+    width: 20%;
     margin: 4% 0;
   }
 .slider-item-title{
     float: left;
     text-decoration: none;
-    font-size: 29px;
+    font-size: 24px;
   }
 .slider-item-exp{
     float: left;
     margin-top: 10%;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 14px;
   }
 .slider-item{
     float: right;
@@ -467,7 +467,7 @@
     position: relative;
   }
 .slider-img{
-    width: 60%;
+    width: 40%;
     height: 70%;
   }
 .numbertext {
